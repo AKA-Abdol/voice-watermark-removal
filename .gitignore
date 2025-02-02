@@ -1,0 +1,5 @@
+/dataset
+/clean/*.wav
+/watermark/*.wav
+/watermark/*.mp3
+.venv
